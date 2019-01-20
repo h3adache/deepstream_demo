@@ -1,0 +1,6 @@
+depth: 20
+feeds:
+  broadcast: ws://127.0.0.1:6020/feed
+  gdax: wss://ws-feed.pro.coinbase.com
+news:
+  large_trade: 500
